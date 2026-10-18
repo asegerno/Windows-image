@@ -17,20 +17,16 @@ Windows 作業系統安裝映像檔、還原鏡像與系統資源庫 (Windows OS
 
 ---
 
-## ⚠️ 免責聲明 (Disclaimer)
-本倉庫僅作為系統映像命名、版本校驗與檔案索引參考。請確保您已自微軟官方或合法授權管道取得對應產品金鑰，並遵守相應之軟體授權協議。
+## ⚖️ 專有軟體授權與許可證說明 (Proprietary Software Licensing & EULA)
 
----
+### 1. 微軟專有軟體授權聲明 (Microsoft Proprietary Licensing)
+* **微軟專有軟體 (Proprietary Commercial Software)**：Windows 作業系統（包含 Windows 11、10、8.1、7、Vista、XP 及 Windows Server 系列）均為 **微軟公司 (Microsoft Corporation)** 所擁有之商標、商業秘密與著作權保護之專有專屬軟體。
+* **EULA 約束**：所有映像檔之安裝、使用與部署，均須完全遵守微軟官方之 [Microsoft 軟體授權條款 (EULA / Use Terms)](https://www.microsoft.com/en-us/useterms)。
 
-## ⚖️ 許可證說明 (License)
+### 2. 免責聲明與使用合規 (Compliance & Disclaimer)
+* **合法金鑰**：本倉庫不提供、不包含任何未經授權的微軟啟用序號、KMS 激活工具或繞過授權之組件。使用者必須自微軟官方或合法授權管道取得有效正版產品金鑰 (Genuine Product Key)。
+* **非公有領域**：Windows 系統鏡像及其核心組件 **非公有領域 (Not Public Domain)**。
+* **僅供索引**：本倉庫所記錄之映像檔名、SHA-256 / MD5 哈希校驗值僅供技術檢驗、系統相容性測試與檔案完整性驗證使用。
 
-本專案採用 **[The Unlicense](https://unlicense.org/)** 授權協議，釋入公有領域（Public Domain）：
-
-```text
-This is free and unencumbered software released into the public domain.
-Anyone is free to copy, modify, publish, use, compile, sell, or
-distribute this software, either in source code form or as a compiled
-binary, for any purpose, commercial or non-commercial, and by any
-means.
-```
-詳細條款請參閱倉庫內之 `LICENSE` 檔案。
+### 3. 本倉庫整理文檔授權 (Documentation License)
+本倉庫之文字解說、分類指南與哈希清單編排採用 **[The Unlicense](https://unlicense.org/)** 條款發布。
